@@ -1,0 +1,23 @@
+*.sw[op]
+target/
+sbt-launch.jar
+logs
+project/project
+project/target
+tmp
+.history
+dist
+.idea/
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+/.cache
+bin/
+*log*.gz
+app/rebel.xml
+#Android Gears
+Gears/
